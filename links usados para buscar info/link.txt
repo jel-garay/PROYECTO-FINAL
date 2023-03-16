@@ -1,0 +1,9 @@
+https://database.projectcoldcase.org/
+
+https://www.washingtonpost.com/graphics/2018/investigations/unsolved-homicide-database/
+
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2  sacarlo con API
+
+https://data.world/cityofchicago/3mg2-a24n
+
+https://www.health.ny.gov/statistics/environmental/lead/

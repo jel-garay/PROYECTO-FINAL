@@ -1,0 +1,18 @@
+import streamlit as st
+from streamlit.components.v1 import html
+
+import streamlit.components.v1 as components
+
+import pandas as pd
+
+st.set_page_config(layout="wide")
+
+st.title('# Chicago police department')
+
+st.header('DELITOS EN CHICAGO')
+
+if st.button('Recomendación mapa'):
+
+    HtmlFile = open("mapa.html", 'r', encoding='utf-8')
+    source_code = HtmlFile.read() 
+    components.html(source_code, width=1000, height=600)
