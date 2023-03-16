@@ -17,9 +17,10 @@
 
 3-PROCESO:
 
-   -Obtención de los datos mediante scraping (métodos selenium y beautiful soup) y API 
+   -Obtención de los datos mediante scraping (métodos selenium y beautiful soup) y API
+   
 .
-   -Limpieza y transformación de los datos.
+  -Limpieza y transformación de los datos.
 
    -Análisis de los datos.
 
